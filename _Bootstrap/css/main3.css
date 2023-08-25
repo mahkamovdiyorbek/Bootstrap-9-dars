@@ -1,0 +1,15 @@
+.car1{
+    position: absolute;
+    top: 1px;
+    left: 540px;
+}
+.car2{
+    position: absolute;
+    top: 1px;
+    left: 800px;
+    height: 5000px;
+}
+.car3{
+    width: 550px;
+    font-size: 25px;
+}
